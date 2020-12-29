@@ -1,0 +1,8 @@
+version: "3"
+services:
+    jupyter_server:
+        image: caiomar4/kedro_test:latest
+        ports:
+            - "4000:4000"
+        volumes:
+            - ./my_iris:/code/my_iris/notebooks

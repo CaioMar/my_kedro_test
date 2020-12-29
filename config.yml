@@ -1,0 +1,5 @@
+output_dir: ./
+project_name: Iris Test
+repo_name: my_iris
+python_package: my_iris
+include_example: True
