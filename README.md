@@ -1,6 +1,6 @@
 # Simple Kedro Test
 
-## Prerquisites
+## Prerequisites
 
 Make sure you have the following installed:
 
