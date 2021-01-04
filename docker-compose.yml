@@ -1,7 +1,7 @@
 version: "3"
 services:
     jupyter_server:
-        image: caiomar4/kedro_test:latest
+        image: caiomar4/my_kedro_test:latest
         ports:
             - "4000:4000"
         volumes:
